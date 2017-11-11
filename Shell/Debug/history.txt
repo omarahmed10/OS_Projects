@@ -1,0 +1,130 @@
+  1  x="-a -l"
+  2  echo $x
+  3  ls $x
+  4  x=5
+  5  y=6
+  6  echo $x\$y
+  7  z=$x\$y
+  8  echo $x/$y
+  9  z=$x/$y
+  10  echo "omar $PATH"
+  11  cd ~/Desktop
+  12  ls
+  13  x="-a -l"
+  14  echo $x
+  15  ls $x
+  16  x=5
+  17  y=6
+  18  echo $x\$y
+  19  z=$x\$y
+  20  echo $x/$y
+  21  z=$x/$y
+  22  echo "omar $PATH"
+  23  ls
+  24  ls -al
+  25  ls -a -l
+  26  /bin/ls -l -a
+  27          /bin/ls     -l 
+  28  vim
+  29  gedit &
+  30  ps
+  31  bin/ps
+  32  pwd
+  33  mkdir cs333
+  34  touch cs333/lab1.txt
+  35  cd ~/cs333
+  36  vi lab1.txt
+  37  pwd
+  38  cd ../
+  39  cd ~
+  40  wc cs333/lab1.txt
+  41  cat cs333/lab1.txt
+  42  x=5
+  43  echo $x
+  44  echo "hello world"
+  45  echo              	"hello           world"
+  46  history
+  47  x="-a -l"
+  48  echo $x
+  49  ls $x
+  50  x=5
+  51  y=6
+  52  echo $x\$y
+  53  z=$x\$y
+  54  echo $x/$y
+  55  z=$x/$y
+  56  echo "omar $PATH"
+  57  ls
+  58  ls -al
+  59  ls -a -l
+  60  /bin/ls -l -a
+  61          /bin/ls     -l 
+  62  vim
+  63  pluma
+  64  ps
+  65  bin/ps
+  66  pwd
+  67  mkdir cs333
+  68  touch cs333/lab1.txt
+  69  cd ~/cs333
+  70  vi lab1.txt
+  71  pwd
+  72  cd ../
+  73  cd ~
+  74  wc cs333/lab1.txt
+  75  cat cs333/lab1.txt
+  76  x=5
+  77  echo $x
+  78  echo "hello world"
+  79  echo              	"hello           world"
+  80  history
+  81  x="-a -l"
+  82  echo $x
+  83  ls $x
+  84  x=5
+  85  y=6
+  86  echo $x\$y
+  87  z=$x\$y
+  88  echo $x/$y
+  89  z=$x/$y
+  90  echo "omar $PATH"
+  91  ls
+  92  ls -al
+  93  ls -a -l
+  94  /bin/ls -l -a
+  95          /bin/ls     -l 
+  96  vim
+  97  pluma
+  98  ps
+  99  bin/ps
+  100  pwd
+  101  mkdir cs333
+  102  touch cs333/lab1.txt
+  103  cd ~/cs333
+  104  vi lab1.txt
+  105  pwd
+  106  cd ../
+  107  cd ~
+  108  wc cs333/lab1.txt
+  109  cat cs333/lab1.txt
+  110  x=5
+  111  echo $x
+  112  echo "hello world"
+  113  echo              	"hello           world"
+  114  history
+  115  pluma &
+  116  pluma &
+  117  pluma &
+  118  ¨\˜²S  119  cs333
+  102  touch cs333/lab1.txt
+  103  cd ~/cs333
+  104  vi lab1.txt
+  105  pwd
+  106  cd ../
+  107  cd ~
+  108  wc cs  120  8ìñ„O  121  8ìñ„O  122  8ìñ„O  123  8ìñ„O  124  8ìñ„O  125  8ìñ„O  109  pluma &
+  110  ¨¬šÇ˜  111  ls
+  112  pluma
+  113  pluma &
+  114  ls
+  115  cd ~
